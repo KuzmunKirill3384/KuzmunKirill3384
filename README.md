@@ -73,16 +73,11 @@
 
 ### Projects
 
-<div align="center">
-
-<a href="https://github.com/KuzmunKirill3384/monstack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KuzmunKirill3384&repo=monstack&theme=github_dark&hide_border=true" width="49%"/>
-</a>
-<a href="https://github.com/merge3301/floyd_warshall">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=merge3301&repo=floyd_warshall&theme=github_dark&hide_border=true" width="49%"/>
-</a>
-
-</div>
+| Project | Stack | Description |
+|:--------|:------|:------------|
+| [**Monstack**](https://github.com/KuzmunKirill3384/monstack) | TypeScript | Modern full-stack application with type-safe architecture |
+| [**Floyd-Warshall**](https://github.com/merge3301/floyd_warshall) | Kotlin | All-pairs shortest path algorithm implementation |
+| [**Fast Dev Studio**](https://fastdevstudio.com) | — | Software development studio |
 
 ---
 
@@ -90,21 +85,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KuzmunKirill3384&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+<img src="https://readme-stats-fast.vercel.app/api?username=KuzmunKirill3384&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KuzmunKirill3384&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="180"/>
-
-&nbsp;
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KuzmunKirill3384&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KuzmunKirill3384&theme=onestar&no-bg=true&no-frame=true&column=6" width="90%"/>
+<img src="https://readme-stats-fast.vercel.app/api/top-langs?username=KuzmunKirill3384&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="180"/>
 
 </div>
 
