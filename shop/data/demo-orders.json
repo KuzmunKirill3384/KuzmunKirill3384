@@ -1,0 +1,32 @@
+[
+  {
+    "id": "demo-ord-1",
+    "email": "demo@atrium.store",
+    "createdAt": "2026-03-28T12:00:00.000Z",
+    "status": "delivered",
+    "totalRub": 45000,
+    "items": [
+      {
+        "slug": "red-wing-roughneck-black-2949",
+        "name": "Ботинки Red Wing Roughneck Black Oil Slick Leather 2949",
+        "qty": 1,
+        "priceRub": 45000
+      }
+    ]
+  },
+  {
+    "id": "demo-ord-2",
+    "email": "demo@atrium.store",
+    "createdAt": "2026-04-01T09:30:00.000Z",
+    "status": "shipped",
+    "totalRub": 17000,
+    "items": [
+      {
+        "slug": "cp-company-goggle-hoodie",
+        "name": "Худи Diagonal Raised Fleece Goggle CMSS028A",
+        "qty": 1,
+        "priceRub": 17000
+      }
+    ]
+  }
+]

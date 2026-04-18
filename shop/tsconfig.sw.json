@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "lib": ["ESNext", "WebWorker"],
+    "types": [],
+    "noEmit": true
+  },
+  "include": [
+    "app/sw.ts",
+    "lib/pwa/constants.ts",
+    "lib/pwa/outbox-types.ts",
+    "lib/pwa/outbox-sw.ts"
+  ],
+  "exclude": []
+}
